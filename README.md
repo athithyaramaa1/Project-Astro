@@ -18,8 +18,6 @@ This application is built using Astro and PostCSS, providing a fast and efficien
 
 ✨ Syntax highlighting
 
-✨ Emoji support
-
 ## Installation
 
 To get started with the Project Astro Blog Application, follow these steps:
