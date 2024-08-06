@@ -7,11 +7,17 @@ This application is built using Astro and PostCSS, providing a fast and efficien
 ## Features
 
 ✨ Easy to use and customize
+
 ✨ Fast and performant
+
 ✨ SEO-friendly
+
 ✨ Responsive design
+
 ✨ Markdown support
+
 ✨ Syntax highlighting
+
 ✨ Emoji support
 
 ## Installation
