@@ -22,7 +22,7 @@ This application is built using Astro and PostCSS, providing a fast and efficien
 
 To get started with the Project Astro Blog Application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-astro-blog.git`
+1. Clone the repository: `git clone https://github.com/your-username/Project-Astro.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
